@@ -1,3 +1,3 @@
 <?php
 
-require( dirname( __FILE__ ) . '/tutorial_4.php' );
+require( dirname( __FILE__ ) . '/tutorial_6.php' );
